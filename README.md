@@ -106,10 +106,7 @@
 
         23. Then add java code inyour activity.
 
-
         Done.
-
-
 
   ## Step by Step GuileLines for Google+ Integration
 
@@ -144,9 +141,7 @@
         Done.
 
 
-
-
-   ##Step by Step GuideLines for Twitter Integration
+  ## Step by Step GuideLines for Twitter Integration
 
         1. Join the community of Twitter.
 
