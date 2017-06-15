@@ -41,12 +41,7 @@
     Manifest.permission.WRITE_EXTERNAL_STORAGE})
     private void openCamera() {
     ...
-    }```
-
-
-
-
-
-
-
-
+    }
+    ```
+    
+    
